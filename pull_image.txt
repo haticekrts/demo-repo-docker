@@ -1,0 +1,3 @@
+docker pull ubuntu 
+docker pull mysql
+docker pull httpd
